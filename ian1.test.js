@@ -8,7 +8,7 @@ describe('my tests', function() {
 
   describe('my tests', function() {
     test('Outputs III', () => {
-      expect(func(3)).toBe(6);
+      expect(func(4)).toBe(8);
     });
 
     test('Outputs IV', () => {
